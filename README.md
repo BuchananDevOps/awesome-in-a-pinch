@@ -5,9 +5,10 @@ Awesome links if you're in a pinch, or looking for past resources you've forgott
 Links associated with high quality images and formats.
 - [Squoosh](https://squoosh.app/)
 
-### Env
-Links associated with Dotenv
-> [32 Bit Secret Generator](https://generate-secret.vercel.app/32)
+### Validator / Generator
+- [32 Bit Secret Generator](https://generate-secret.vercel.app/32)
+- [SEO Twitter Card Validation](https://cards-dev.twitter.com/validator)
+- [FaceBook Debugging](https://developers.facebook.com/tools/debug/)
 
 ### Desmos Calculators
 - [Graphing](https://www.desmos.com/calculator)
