@@ -10,6 +10,7 @@ Links associated with high quality images and formats.
 - [SEO Twitter Card Validation](https://cards-dev.twitter.com/validator)
 - [FaceBook Debugging](https://developers.facebook.com/tools/debug/)
 - [Google Structure Data Testing](https://developers.google.com/search/docs/appearance/structured-data)
+- [Schema Markup Validator](https://validator.schema.org/)
 
 ### Desmos Calculators
 - [Graphing](https://www.desmos.com/calculator)
@@ -19,6 +20,7 @@ Links associated with high quality images and formats.
   - Mental Exercises Boys
 - [Matrix Calc](https://www.desmos.com/matrix)
 - [Geometry - Shape Shifters](https://www.desmos.com/geometry)
+
 
 ### Analytics / Google Algorithms
 - [Lighthouse Scoring Metrics](https://www.desmos.com/calculator/dufar5rf4g)
