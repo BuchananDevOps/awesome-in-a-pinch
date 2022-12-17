@@ -1,6 +1,9 @@
 # Awesome in a Pinch Links
 Awesome links if you're in a pinch, or looking for past resources you've forgotten
 
+### Images
+Links associated with high quality images and formats.
+- [Squoosh](https://squoosh.app/)
 
 ### Env
 Links associated with Dotenv
