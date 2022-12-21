@@ -1,6 +1,9 @@
 # Awesome in a Pinch Links
 Awesome links if you're in a pinch, or looking for past resources you've forgotten
 
+### CSS Tools
+- [HyperColor](https://hypercolor.dev/)
+
 ### Images
 Links associated with high quality images and formats.
 - [Squoosh](https://squoosh.app/)
