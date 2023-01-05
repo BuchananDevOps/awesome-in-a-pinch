@@ -4,6 +4,9 @@ Awesome links if you're in a pinch, or looking for past resources you've forgott
 ### CSS Tools
 - [HyperColor](https://hypercolor.dev/)
 
+### Form / Data Inputs
+- [React Hook Form](https://react-hook-form.com/)
+
 ### Images
 Links associated with high quality images and formats.
 - [Squoosh](https://squoosh.app/)
