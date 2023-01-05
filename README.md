@@ -31,3 +31,6 @@ Links associated with high quality images and formats.
 
 ### Informative Tutorials
 - [Nextjs | Contentful | Typescript | Netlify](https://www.scale.at/blog/static-website-nextjs-typescript-contentful)
+
+### Geological / Maps
+- [USGS](https://www.usgs.gov/)
