@@ -31,6 +31,7 @@ Links associated with high quality images and formats.
 
 ### Analytics / Google Algorithms
 - [Lighthouse Scoring Metrics](https://www.desmos.com/calculator/dufar5rf4g)
+- [E Charts](https://echarts.apache.org/)
 
 ### Informative Tutorials
 - [Nextjs | Contentful | Typescript | Netlify](https://www.scale.at/blog/static-website-nextjs-typescript-contentful)
